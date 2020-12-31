@@ -1,0 +1,33 @@
+/* table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    height: 75px;
+} */
+html{
+    height: 100%;
+    /* background-color: purple;  */
+    background-image: linear-gradient(to bottom left, #5F2D82, #49A09D);
+    /* background: repeating-linear-gradient(#e66465, #e66465 20px, #9198e5 , #9198e5 25px); */
+    /* background-repeat:no-repeat; */
+    
+}
+.form{
+    width: 800px;
+    height: 355.81px;
+    margin: auto;
+}
+.form__header{
+    display: flex;
+}
+.form__header-tittle{
+}
+.form__header-search{
+    width: 212px;
+    height: 43px;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    right: 0;
+}
